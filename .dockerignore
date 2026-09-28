@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.git
+.github
+*.egg-info
+.env
+.env.*
+pipeline_tests/
+tests/
+*.md
+NeutroFuse_Report.docx
